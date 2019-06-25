@@ -1,0 +1,22 @@
+<svg width="92" height="29.999999999999996" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+ <title>logo</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <filter id="svg_3_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_5">
+   <path stroke="#ffaaaa" transform="rotate(-45 51.92269897460937,15.508751869201651) " id="svg_1" d="m34.431546,15.508754l17.491155,-17.491141l17.491155,17.491141l-17.491155,17.491141l-17.491155,-17.491141z" stroke-width="1.5" fill="#ffaaaa"/>
+   <path opacity="0.8" filter="url(#svg_3_blur)" id="svg_3" d="m21.067873,14.819004l0,0c0,-7.1722 5.81422,-12.98643 12.98642,-12.98643l0,0c3.44421,0 6.74736,1.36821 9.18279,3.80364c2.43543,2.43543 3.80364,5.73857 3.80364,9.18279l0,0c0,7.1722 -5.81422,12.98643 -12.98643,12.98643l0,0c-7.1722,0 -12.98642,-5.81423 -12.98642,-12.98643zm6.49321,0l0,0c0,3.5861 3.99308,-4.09503 7.57918,-4.09503c3.5861,0 -2.46606,4.60421 -2.46606,1.01811c0,-3.5861 4.96619,-3.41629 1.38009,-3.41629l-0.0905,-0.0905c-1.14266,13.84616 -6.40271,2.99761 -6.40271,6.58371z" stroke-width="1.5" stroke="#ffffaa" fill="#ffffaa"/>
+   <path opacity="0.75" stroke="#aad4ff" id="svg_2" d="m35.728506,27.856334l13.755657,-24.072395l13.755657,24.072395l-27.511313,0z" stroke-width="1.5" fill="#aad4ff"/>
+  </g>
+ </g>
+</svg>
