@@ -4,14 +4,25 @@ body {
   flex-direction: column;
   min-height: 100vh;
 }
-
+.a-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  padding: 15px;
+  border-radius: 10px;
+}
 .a-titles:hover {
   color: var(--accent-color);
 }
 
-.imgdoc:hover {
+/* .imgdoc:hover {
   border: 3px solid var(--accent-color);
-}
+} */
 /* layout */
 .header {
   border-bottom: 1px solid var(--code-bg-color);
